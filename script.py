@@ -64,3 +64,4 @@ plt.show()
 
 #Calculate the Average Variance in SalePrice
 print('The average error in the predicted value is ± $',np.mean(error))
+
